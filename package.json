@@ -1,0 +1,16 @@
+{
+  "name": "thrus",
+  "version": "0.0.1",
+  "description": "functions to create through streams",
+  "main": "thrus.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richRemer/thrus.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richRemer/thrus/issues"
+  },
+  "homepage": "https://github.com/richRemer/thrus#readme"
+}
